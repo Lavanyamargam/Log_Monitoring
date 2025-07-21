@@ -1,0 +1,5 @@
+INFO 2025-07-16 09:00:00 Server started
+WARNING 2025-07-16 09:15:30 Low memory
+ERROR 2025-07-16 09:30:10 Connection failed
+INFO 2025-07-16 09:45:00 Running fine
+CRITICAL 2025-07-16 10:00:00 System crash!
